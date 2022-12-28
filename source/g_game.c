@@ -82,8 +82,8 @@
 
 //const int     key_right = KEYD_RIGHT;
 //const int     key_left = KEYD_LEFT;
-const int     key_up = KEYD_UP;
-const int     key_down = KEYD_DOWN;
+const int     key_up = KEYD_DOWN; //inverted
+const int     key_down = KEYD_UP; //inverted
 const int     key_menu_right = KEYD_RIGHT;                                      // phares 3/7/98
 const int     key_menu_left = KEYD_LEFT;                                       //     |
 const int     key_menu_up = KEYD_UP;                                         //     V
